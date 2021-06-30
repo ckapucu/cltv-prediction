@@ -30,11 +30,8 @@ You can download from https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
   
 ## Requirements
 
-To run this python code, you will need to add the following modules to your environment.
+To run this python code, you will need to add the following module to your environment.
 
 `lifetimes`
-`sqlalchemy`
-`pymysql`
-`mysql-connector-python`
 
-You can install these modules with `pip install <module_name>`
+You can install these modules with `pip install lifetimes`
