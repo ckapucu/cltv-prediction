@@ -1,3 +1,4 @@
+![customer-lifetime-value-c5bc53a8](https://user-images.githubusercontent.com/9140821/123953330-c4d91f80-d9af-11eb-95be-749094192135.jpg)
     
 # CLTV Prediction
 
