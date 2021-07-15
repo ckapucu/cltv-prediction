@@ -194,7 +194,7 @@ pd.set_option('display.float_format', lambda x: '%.2f' % x)
 cltv_Final[["segment", "recency", "T", "frequency", "monetary", "expected_average_profit", "cltv_6m_pred",
             "cltv_12m_pred"]].groupby("segment").agg({"mean"})
 
-#         		recency		T		frequency		monetary	expected_average_profit	cltv_6m_pred 
+#         		recency		T	frequency		monetary	expected_average_profit	cltv_6m_pred 
 #         		mean  		mean    mean     		mean        mean        			mean 
 # segment
 # D         	22.07 		40.51   3.07   			177.42		192.22					269.47        
